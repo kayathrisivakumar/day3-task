@@ -38,6 +38,8 @@
             {
                 console.log(data[i].region, data[i].area, data[i].flag)
                 console.log(data[i].name)
+                console.log(data[i],subregion)
+                console.log(data[i],population)
             }
 
         }
